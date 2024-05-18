@@ -1,0 +1,14 @@
+{
+    "name": "@nowo/utils",
+    "version": "0.0.2",
+    "description": "一个简单的工具函数库",
+    "author": "nowo",
+    "repository": "https://github.com/nowo/deno-utils",
+    "license": "MIT License",
+    "exports": "./src/index.ts",
+    "publish": {
+		"exclude": [
+			"**/*.test.ts"
+		]
+	}
+  }
