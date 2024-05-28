@@ -1,6 +1,6 @@
 {
     "name": "@nowo/utils",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "一个简单的工具函数库",
     "author": "nowo",
     "repository": "https://github.com/nowo/deno-utils",
